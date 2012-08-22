@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://harterrt.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://blog.ryantharter.com
+title: The Blog of Ryan T. Harter
+subtitle: Mathematician - Economist - Financeer
+author: Ryan T. Harter
 simple_search: http://google.com/search
 description:
 
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: harterrt
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
