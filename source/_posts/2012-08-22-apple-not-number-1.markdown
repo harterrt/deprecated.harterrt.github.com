@@ -8,9 +8,9 @@ categories: Economics, Intro
 
 I, like most economists, have been amused by the recent bout of headlines claiming Apple is now the most valuable company of all time; in nominal dollars, of course. 
 This [CNN Money article](http://money.cnn.com/2012/08/20/technology/apple-most-valuable-company/), and comprable articles from many 
-reputable 
-news 
-agencies,
+[reputable](http://www.washingtonpost.com/business/us-stock-futures-fall-ahead-of-pivotal-week-in-europe-lowes-misses-wall-street-expectations/2012/08/20/a414ce76-eac0-11e1-866f-60a00f604425_story.html)
+[news](http://www.forbes.com/sites/carminegallo/2012/08/21/7-courageous-ways-apple-became-americas-most-valuable-company/)
+[agencies](http://in.reuters.com/article/2012/08/21/idINL2E8JKC8C20120821)
 offer a catchy headline without substance wasting several paragraphs of reader time before admitting that the comparison is worthless.
 I'm supprised that with today's focus on fuel efficiency the media missed this whopper of a headline:
 
