@@ -7,17 +7,17 @@ categories: Economics, Intro
 ---
 
 I, like most economists, have been amused by the recent bout of headlines claiming Apple is now the most valuable company of all time; in nominal dollars, of course. 
-This [CNN Money article](http://money.cnn.com/2012/08/20/technology/apple-most-valuable-company/), and comprable articles from many 
+This [CNN Money article](http://money.cnn.com/2012/08/20/technology/apple-most-valuable-company/), and comparable articles from many 
 [reputable](http://www.washingtonpost.com/business/us-stock-futures-fall-ahead-of-pivotal-week-in-europe-lowes-misses-wall-street-expectations/2012/08/20/a414ce76-eac0-11e1-866f-60a00f604425_story.html)
 [news](http://www.forbes.com/sites/carminegallo/2012/08/21/7-courageous-ways-apple-became-americas-most-valuable-company/)
 [agencies](http://in.reuters.com/article/2012/08/21/idINL2E8JKC8C20120821)
 offer a catchy headline without substance wasting several paragraphs of reader time before admitting that the comparison is worthless.
-I'm supprised that with today's focus on fuel efficiency the media missed this whopper of a headline:
+I'm suprised that with today's focus on fuel efficiency the media missed this whopper of a headline:
 
-##NASA's Curisity is now the lightest mode of transportation of all time
+##NASA's Curiosity is now the lightest mode of transportation of all time
 On their way to exploring the red planet, NASA set another record: It produced the lightest vehicle in all of history.
 
-Curisity's weight creapt below .01 oz before landing on the fourth rock from the sun. For comparison, the the average racing bike weighs more than 240oz.
+Curiosity's weight crept below .01 oz. before landing on the fourth rock from the sun. For comparison, the average racing bike weighs more than 240oz.
 
 ...
 
@@ -38,7 +38,7 @@ However, this comparison breaks down over time.
 
 For now, let's define the value of a dollar to be total GDP divided by the amount of dollars in the market. 
 Thus, each dollar is a voucher for ownership of some portion of the goods produced by the country.
-If the government were to print print a fresh batch of bills overnight the value per dollar, or the share of GDP represented by each dollar, would decrease. 
+If the government were to print a fresh batch of bills overnight the value per dollar, or the share of GDP represented by each dollar, would decrease. 
 This decision would not change the value of Apple.
 However, because the value per dollar has decreased the number of dollars required to purchase apple will increase.
 The number of dollars required to purchase something is the nominal cost.
