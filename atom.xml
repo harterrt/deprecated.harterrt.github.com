@@ -4,7 +4,7 @@
   <title><![CDATA[The Blog of Ryan T. Harter]]></title>
   <link href="http://blog.ryantharter.com/atom.xml" rel="self"/>
   <link href="http://blog.ryantharter.com/"/>
-  <updated>2012-08-30T12:19:53-04:00</updated>
+  <updated>2012-09-04T10:33:22-04:00</updated>
   <id>http://blog.ryantharter.com/</id>
   <author>
     <name><![CDATA[Ryan T. Harter]]></name>
@@ -12,53 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Apple not #1]]></title>
-    <link href="http://blog.ryantharter.com/blog/2012/08/22/apple-not-number-1/"/>
-    <updated>2012-08-22T19:00:00-04:00</updated>
-    <id>http://blog.ryantharter.com/blog/2012/08/22/apple-not-number-1</id>
-    <content type="html"><![CDATA[<p>I, like most economists, have been amused by the recent bout of headlines claiming Apple is now the most valuable company of all time; in nominal dollars, of course.
-This <a href="http://money.cnn.com/2012/08/20/technology/apple-most-valuable-company/">CNN Money article</a>, and comparable articles from many
-<a href="http://www.washingtonpost.com/business/us-stock-futures-fall-ahead-of-pivotal-week-in-europe-lowes-misses-wall-street-expectations/2012/08/20/a414ce76-eac0-11e1-866f-60a00f604425_story.html">reputable</a>
-<a href="http://www.forbes.com/sites/carminegallo/2012/08/21/7-courageous-ways-apple-became-americas-most-valuable-company/">news</a>
-<a href="http://in.reuters.com/article/2012/08/21/idINL2E8JKC8C20120821">agencies</a>
-offer a catchy headline without substance wasting several paragraphs of reader time before admitting that the comparison is worthless.
-I&#8217;m suprised that with today&#8217;s focus on fuel efficiency the media missed this whopper of a headline:</p>
-
-<h2>NASA&#8217;s Curiosity is now the lightest mode of transportation of all time</h2>
-
-<p>On their way to exploring the red planet, NASA set another record: It produced the lightest vehicle in all of history.</p>
-
-<p>Curiosity&#8217;s weight crept below .01 oz. before landing on the fourth rock from the sun. For comparison, the average racing bike weighs more than 240oz.</p>
-
-<p>&#8230;</p>
-
-<p>NASA still has one last hurdle to climb: Curiosity is still heavier than most forms of transportation if changes in the force of gravity are accounted for. On the ground, Curiosity weighed just north of 8,000 pounds</p>
-
-<h2>What&#8217;s the difference?</h2>
-
-<p>Generally, we can compare the mass of two objects by measuring their weight.
-However, this comparison breaks down if we take the measurement at different locations.
-As we increase our elevation, gravity&#8217;s effect on the mass of an object decreases, decreasing the weight.
-Therefore the weight of a 4kg bowling ball is different at sea level, at the top of Mt. Everest, and is weightless in space.
-A comparison of the weight of the Curiosity Mars rover in space to a bicycle on the ground makes little sense.
-Because the objects are far apart, it would be more logical to use a measure that is not affected by distance from the earth.</p>
-
-<p>Similarly, we commonly use dollars as a yardstick to compare value.
-One can reasonably argue that of two items the one that has the highest price is the most valuable to the market.
-However, this comparison breaks down over time.</p>
-
-<p>For now, let&#8217;s define the value of a dollar to be total GDP divided by the amount of dollars in the market.
-Thus, each dollar is a voucher for ownership of some portion of the goods produced by the country.
-If the government were to print a fresh batch of bills overnight the value per dollar, or the share of GDP represented by each dollar, would decrease.
-This decision would not change the value of Apple.
-However, because the value per dollar has decreased the number of dollars required to purchase apple will increase.
-The number of dollars required to purchase something is the nominal cost.
-A comparison of the nominal value of Microsoft in 1999 to Apple in 2012 makes little sense.
-Because the companies are far apart in time, it would be more logical to use a measure that is not affected by the time of measurement.
-Because of this flaw, comparisons of value across time are done in &#8216;real&#8217; terms, which are adjusted for the changes in the value per dollar.</p>
-]]></content>
-  </entry>
   
 </feed>
